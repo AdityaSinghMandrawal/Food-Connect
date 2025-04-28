@@ -120,6 +120,6 @@ Features:
 
 ## Author
 
-Developed and maintained by [Aditya Singh Mandrawal](https://github.com/Aditya-Singh-Mandrawal).
+Developed and maintained by [Aditya Singh Mandrawal](https://github.com/AdityaSinghMandrawal).
 
 > Feel free to ⭐ the repository if you find it useful!
