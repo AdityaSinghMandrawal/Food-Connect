@@ -4,7 +4,7 @@
 
 <!-- <img src="img/coverimage.jpeg"> -->
 
-The **Food Waste Management System** is designed to collect excess or leftover food from donors such as hotels, restaurants, marriage halls, and individuals, and redistribute it efficiently to underprivileged and needy communities.
+**Food Connect** is designed to collect excess or leftover food from donors such as hotels, restaurants, marriage halls, and individuals, and redistribute it efficiently to underprivileged and needy communities.
 
 ## Tools and Technologies Used
 
